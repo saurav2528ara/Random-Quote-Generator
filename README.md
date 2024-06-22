@@ -3,25 +3,30 @@
 Description: This project is a web-based application that generates random quotes and allows users to share their favorite quotes on Twitter.
 
 Features
-Random Quote Display:
+<ul>
+
+<li>Random Quote Display:</li>
 
 On page load, the application fetches a list of quotes from an external API.
 A random quote is displayed each time the user clicks the "New Quotes" button.
-Share on Twitter:
+
+<li>Share on Twitter:</li>
 
 Users can easily share the displayed quote on Twitter by clicking the Twitter icon.
-Smooth Animations:
+
+<li>Smooth Animations:</li>
 
 The project utilizes the Animate on Scroll (AOS) library to apply smooth zoom-in animations to the quote display area.
   
 Technologies Used
-  
+<pre>
 HTML5: For the structure and layout of the webpage.
 CSS3: For styling the page and making it visually appealing.
 JavaScript: For fetching data from an API, updating the DOM dynamically, and adding interactivity.
 Font Awesome: For using the Twitter icon and quote icons.
 AOS Library: For adding animations to elements when they are scrolled into view.
 External API: Quotes are fetched from an external API providing a variety of inspirational quotes.
+</pre>
 Key Components
 
 
