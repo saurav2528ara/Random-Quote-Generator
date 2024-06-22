@@ -1,7 +1,7 @@
  <h1>Title: <strong>Random Quote Generator</strong></h1>
   
 Description: This project is a web-based application that generates random quotes and allows users to share their favorite quotes on Twitter.
-<pre>
+
 Features
 Random Quote Display:
 
@@ -23,7 +23,7 @@ Font Awesome: For using the Twitter icon and quote icons.
 AOS Library: For adding animations to elements when they are scrolled into view.
 External API: Quotes are fetched from an external API providing a variety of inspirational quotes.
 Key Components
-</pre> 
+
 
 HTML Structure:
 
