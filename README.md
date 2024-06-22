@@ -1,6 +1,6 @@
 # Project Overview
 
-##Title: Random Quote Generator
+### Title: Random Quote Generator
 - Description: This project is a web-based application that generates random quotes and allows users to share their favorite quotes on Twitter.
 
 ## Features
